@@ -1,4 +1,4 @@
-# News App
+# News Feed
 Fetch news from API and list them inside a RecyclerView.
 
 </br>
